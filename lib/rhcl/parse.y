@@ -89,6 +89,10 @@ rule
             {
               val[0]
             }
+          | object
+            {
+              val[0]
+            }
 
   number: INTEGER
           {
